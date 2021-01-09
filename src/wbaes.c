@@ -1,4 +1,4 @@
-#include "genTables.h"
+#include "wbaes.h"
 
 void printstate(unsigned char * in)
 {
